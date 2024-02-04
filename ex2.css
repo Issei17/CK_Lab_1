@@ -1,0 +1,56 @@
+html{
+    background-image: url("html/ex2_bg.jpg");  
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ h1{
+    font-size: 90px;
+    color: white;
+ }
+
+
+ button{
+    height: 40px;
+    width: 120px;
+    border: 1px white;
+    border-radius: 12px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+
+ }
+ .div_left{
+
+    width: 400px;
+    
+    float: left;
+    
+    text-align: left;
+    text-indent: 30px;
+    
+    }
+    
+    .div_right{
+    
+    width: 400px;
+    
+    float: left;
+    
+    text-align: center;
+    text-indent: 80px;
+    
+    }
+    .div_left, .div_right{
+        font-size: 45px;
+    }
+    .middle{
+        border-spacing: 30px;
+    }
+    p{
+        font-size: 32px;
+        font-weight: 10px;
+        width: 1000px;
+    }
+   
+    

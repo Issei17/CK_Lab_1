@@ -1,0 +1,82 @@
+html{
+   background-image: url("html/background.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-family: "Calibri";
+
+ }
+ h3{
+   font-weight: 900px;
+   font-size: 25px;
+ }
+ 
+ table{
+   border-spacing: 15px;
+ }
+   .top{
+     background-color: white;
+     transform: scale(1.009, 1.2);
+   }
+.second, .third{
+   text-align:left;
+   font-weight: 400px;
+   color: white;
+}
+.first{
+   text-align: left;
+   color: black;
+   font-size: 40px;
+}
+   .bottom{
+       text-align: center;
+       border:10px solid black;
+       background-color: black;
+       color: white;
+       transform: scale(1.009, 1.25);
+   }
+   .second{
+      font-size: 70px;
+   }
+   form{
+      text-align: left;
+   }
+   input{
+      border-color: white;
+      border-radius: 12px;
+      font-size: 40px;
+   }
+   form{
+      word-spacing: 30px;
+   }
+   button{
+      border-color: #e2446c;
+      border-radius: 12px;
+     font-size: 20px;
+     font-weight: bolder;
+     text-align: center;
+      background-color: #d82b56;
+      color: white;
+      padding-top: 15px;
+      height: 75px;
+      width: 350px;
+   }
+   input{
+      height: 70px;
+   }
+   .third{
+      font-weight: 5px;
+      font-family: helvetica;
+      margin-top: 1px;
+      font-size: 25px;
+      height: 120px;
+      width: 900px;
+   }
+::placeholder{
+   color: black;
+   font-size: 25px;
+   text-indent: 20px;
+}
+th{
+   border-top: 30px;
+}
+
